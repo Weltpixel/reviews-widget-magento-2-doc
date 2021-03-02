@@ -1,11 +1,11 @@
-<h1><a href="https://www.weltpixel.com/magento-2-product-reviews-and-rating-extension.html">Magento 2 Product Reviews & Rating Widget by WeltPixel.</a></h1>
+<h1><a href="https://www.weltpixel.com/magento-2-product-reviews-and-rating-extension.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Product Reviews & Rating Widget by WeltPixel.</a></h1>
 <br/><br/>
 <table>
   <tr>
   <td width="30%" valign="center" style="
     border: none;
-"><br><a href="https://www.weltpixel.com/magento-2-product-reviews-and-rating-extension.html"><img src="https://www.weltpixel.com/media/catalog/product/r/e/reviewswidgetmain_1.png" alt="Product Reviews & Rating Widget"></a>
-<br><a href="https://www.weltpixel.com"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
+"><br><a href="https://www.weltpixel.com/magento-2-product-reviews-and-rating-extension.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/catalog/product/r/e/reviewswidgetmain_1.png" alt="Product Reviews & Rating Widget"></a>
+<br><a href="https://www.weltpixel.com?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
   <td style="border:none;"><br>
 <h2>ABOUT THE MAGENTO 2 PRODUCT REVIEWS & RATING WIDGET EXTENSION.</h2>
                         <ul>
@@ -17,8 +17,8 @@ It’s easy to edit the desired page or block from your Magento Admin. Simply cl
 The Magento 2 Product Reviews & Rating Widget Extension adds a review section, as well as a review form. This lets users submit directly from the presentation page - no need to visit the specific product page. If you’re wondering how to get product reviews in Magento to grow, start by making it easy for the customer!
                         </p>
                          </ul>
-                        <h3>Download Here: <a href="https://www.weltpixel.com/magento-2-product-reviews-and-rating-extension.html">Product Reviews & Rating Widget.</a></h3>
-                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl">Pearl Theme for Magento 2.</a></h3>
+                        <h3>Download Here: <a href="https://www.weltpixel.com/magento-2-product-reviews-and-rating-extension.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Product Reviews & Rating Widget.</a></h3>
+                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Pearl Theme for Magento 2.</a></h3>
 </div></td>
  </tr>
 </table>
@@ -87,7 +87,7 @@ The Magento 2 Product Reviews & Rating Widget Extension adds a review section, a
                 </li>
                  <li>
                 <strong>Step 4: </strong><br>
-                  In your browser go to www.yourmagentostore.com/<strong>weltpixel-extension-installation/</strong> and simply follow the installation steps from the graphical interface, presented in your browser. See the installation video: <a href="https://www.weltpixel.com/magento-2-product-reviews-and-rating-extension.html#video-installation" target="blank">1 Minute Module Installation via browser GUI.</a>
+                  In your browser go to www.yourmagentostore.com/<strong>weltpixel-extension-installation/</strong> and simply follow the installation steps from the graphical interface, presented in your browser.
                  </li>
                <li>
                 <strong>Step 5: </strong><br>
@@ -174,8 +174,8 @@ The Magento 2 Product Reviews & Rating Widget Extension adds a review section, a
                         </ul> 
                         <h2>Magento Marketplace Installation.</h2>
                             <ul>
-                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
-                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
+                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
+                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
                                   <tr>
   <td width="100%">
       <div class="col-md-6">
@@ -236,4 +236,4 @@ The Magento 2 Product Reviews & Rating Widget Extension adds a review section, a
   </td>
  </tr>
 </table>
- <h3>Download it now! <a href="https://www.weltpixel.com/magento-2-product-reviews-and-rating-extension.html">Magento 2 Product Reviews & Rating Widget by WeltPixel.</a></h3>
+ <h3>Download it now! <a href="https://www.weltpixel.com/magento-2-product-reviews-and-rating-extension.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Product Reviews & Rating Widget by WeltPixel.</a></h3>
